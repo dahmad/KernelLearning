@@ -1,2 +1,2 @@
-# learning_clojure
-Documenting my attempts to learn Clojure
+# Using Juptyer kernels to learn new tools
+Documenting my attempts to learn new languages, libraries
